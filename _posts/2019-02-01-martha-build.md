@@ -5,7 +5,7 @@ featured-img: martha-build
 categories: [Guides]
 ---
 
-<img src="{{ '/' | relative_url }}tent_1.jpg?raw=true" style="display:block;margin:auto;" />
+<img src="{{ '/assets/img/posts/tent_1.jpg' | relative_url }}" style="display:block;margin:auto;" />
 
 I've been getting into mushroom cultivation lately, starting as a hobby but with potential to start a business. I like the idea of being a mushroom cultivator, but like most people I don't have any formal education on the topic. I don't even remember them being a topic in gradeschool. So to get a feel for it, I decided to try my hand at growing something.
 
