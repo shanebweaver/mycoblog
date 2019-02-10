@@ -3,6 +3,7 @@ layout: post
 title: "Build a Martha Grow Tent for Fruiting Mushrooms"
 featured-img: martha-build
 categories: [Guides]
+comments: true
 ---
 
 <img src="{{ '/assets/img/posts/tent_1.jpg' | relative_url }}" style="display:block;margin:auto;" />
