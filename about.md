@@ -1,13 +1,17 @@
 ---
 layout: page
-title: About
+title: 🖊 About the Author
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+# Hi,
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+I'm Shane Weaver; Engineer and entrepreneur.
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Born and raised in the Puget Sound region of Washington State; I spend my free time wood working, studying amateur mycology, coding, Beat Saber, and hanging with the family 🤹‍️
+
+The thoughts and views expressed on this site are my own. They do not represent the opinions of my employer in any way.
+
+Mush love,
+
+## Shane 🍄
