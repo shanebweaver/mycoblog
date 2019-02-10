@@ -4,9 +4,17 @@ title: 📧 Get Connected
 permalink: /contact/
 ---
 
-See something you like or need a few pointers? Shoot me a message! I love connecting with interesting and passionate individuals to cross pollinate ideas.
+### Contributers welcome
 
-### Let me know what you're up to...
+Are you Commercial Mushroom Cultivator, Field Mycologist, or Hobbyist with a passion for mycelium? The MycoBlog is looking for contributions from well spoken and organized individuals. 
+
+Enhance your brand and share your content alongside other community members via *The MycoBlog*!
+
+### Let me know what you're up to
+
+See something you like or need a few pointers? I love connecting with interesting and passionate individuals to cross pollinate ideas.
+
+## Let's connect
 
 Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
 
