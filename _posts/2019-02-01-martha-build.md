@@ -58,14 +58,14 @@ To build this Martha, I used parts from Amazon, Home Depot, and the House of Hyd
 My core tent consists of the Martha tent itself, a plastic base, and a shallow perlite tray. The plastic base is for catching any condensation or dripping water, and the smaller perlite tray is for humidity control.
 
 **Tent:** [Gardman R687 4-Tier Mini Greenhouse, 27" Long x 18" Wide x 63" High](https://www.amazon.com/gp/product/B000NCTGQE)   
-<img src="/blog/assets/img/posts/mist_3.jpg" />
+<img src="{{ '/assets/img/posts/mist_3.jpg' | relative_url }}" />
 
 **Base tray:** [MidWest Homes for Pets Dog Crate Replacement Pans, 30-Inch](https://www.amazon.com/gp/product/B0002DHW10)  
 **Perlite tray:** [MidWest Homes for Pets Dog Crate Replacement Pans, 18-Inch](https://www.amazon.com/gp/product/B007TU7PM0)    
 <img src="/blog/assets/img/posts/perlite.jpg" />
 
 **2 x Air diffusing ventilation port, 4-inch**    
-<img src="/blog/assets/img/posts/flange_1.jpg" />
+<img src="{{ '/assets/img/posts/flange_1.jpg' | relative_url }}" />
 
 Start off by assembling the tent in your desired location. Nest the perlite tray in the base tray, and slip them under the assembled greenhouse tent. 
 
@@ -77,8 +77,8 @@ Fill the smaller tray with damp perlite to help regulate the humidity level.
 
 ### Lighting
 
-<img src="/blog/assets/img/posts/light_1.jpg" />
-<img src="/blog/assets/img/posts/light_2.jpg" />
+<img src="{{ '/assets/img/posts/light_1.jpg' | relative_url }}" />
+<img src="{{ '/assets/img/posts/light_2.jpg' | relative_url }}" />
 
 Mushrooms recognize a day/night cycle to indicate fruiting conditions. This can be simulated with a T5 florescent lamp and a timed power strip. We'll need rope to suspend the light as well.
 
@@ -105,8 +105,8 @@ Perhaps the most important and costly aspect of this build is the humidity syste
 - PVC pipe, 4-inch
 - Clear silicone sealant
 
-<img src="/blog/assets/img/posts/humidifier_top.jpg" />
-<img src="/blog/assets/img/posts/humidifier_open.jpg" />
+<img src="{{ '/assets/img/posts/humidifier_top.jpg' | relative_url }}" />
+<img src="{{ '/assets/img/posts/humidifier_open.jpg' | relative_url }}" />
 
 Using a rotary tool, knife, or other sharp object, cut 4-inch holeS in two opposing corners; One is for air intake, while the other is for mist output. 
 
@@ -115,8 +115,8 @@ Attach the muffin fan to the top of one of the openings using nuts/bolts, making
 Connect the fan components together:    
 **Muffin fan** -> **Fan speed controller** -> **Cable extension splitter**
 
-<img src="/blog/assets/img/posts/humidifier_connected.jpg" />
-<img src="/blog/assets/img/posts/humidifier_disconnected.jpg" />
+<img src="{{ '/assets/img/posts/humidifier_connected.jpg' | relative_url }}" />
+<img src="{{ '/assets/img/posts/humidifier_disconnected.jpg' | relative_url }}" />
 
 Using clear silicone, affix the PVC flang atop the other opening in the resevoir lid. I used bolts and wingnuts as well for an extra sturdy fixture.
 
@@ -128,14 +128,14 @@ Attach the mist maker components together:
 Attach the humidistat components together:  
 **Cable extension splitter** -> **Humidistat** -> **Power strip, on the `switched` side**
 
-<img src="/blog/assets/img/posts/humidifier_working.jpg" />
-<img src="/blog/assets/img/posts/humidifier_tubing.jpg" />
+<img src="{{ '/assets/img/posts/humidifier_working.jpg' | relative_url }}" />
+<img src="{{ '/assets/img/posts/humidifier_tubing.jpg' | relative_url }}" />
 
 Once everything is connected up, place the humidifier unit next to the tent and connect the PVC pipe to the mist output flange. Then run ducting from the PVC opening to the upper tent ventilation port.
 
 ### Heating
 
-<img src="/blog/assets/img/posts/heatmat.jpg" />
+<img src="{{ '/assets/img/posts/heatmat.jpg' | relative_url }}" />
 
 For heating, I have a simple seedling heating mat and thermostat controller.
 
@@ -146,8 +146,8 @@ Place the heating mat under the perlite tray at the bottom of the tent. Run the 
 
 ### Exhaust
 
-<img src="/blog/assets/img/posts/exhaust_fan.jpg" />
-<img src="/blog/assets/img/posts/exhaust_fixture.jpg" />
+<img src="{{ '/assets/img/posts/exhaust_fan.jpg' | relative_url }}" />
+<img src="{{ '/assets/img/posts/exhaust_fixture.jpg' | relative_url }}" />
 
 To promote fresh air exchange (FAE), I added an inline fan to my exhaust tubing. This is used to help dial in the temperature/humidity/FAE balance.
 
@@ -157,13 +157,13 @@ Use ventilation ducting to connect the output port of the tent to the inline fan
 
 ### Control station
 
-<img src="/blog/assets/img/posts/controls.jpg" />
+<img src="{{ '/assets/img/posts/controls.jpg' | relative_url }}" />
 
 This setup involves quite a few wires and devices to keep track of. To organize the madness, and get the devices off the ground, I zip-tied it all to a plastic crate. The devices are attached atop, while the cords are fed through the holes and bound neatly within. Get creative, find what works for you and your space.
 
 ## Configuration
 
-<img src="/blog/assets/img/posts/sensors.jpg" />
+<img src="{{ '/assets/img/posts/sensors.jpg' | relative_url }}" />
 
 Adjust the power strip to toggle on/off every 12 hours. This will create the day/night cycle.
 
@@ -212,5 +212,5 @@ Using a disk key (provided with each pack of disks) unscrew the disk retaining r
 - Cut off those annoying tent door straps
 - Fiddle with configuration
 
-<img src="/blog/assets/img/posts/oyster_1.jpg" />
-<img src="/blog/assets/img/posts/oyster_2.jpg" />
+<img src="{{ '/assets/img/posts/oyster_1.jpg' | relative_url }}" />
+<img src="{{ '/assets/img/posts/oyster_2.jpg' | relative_url }}" />
