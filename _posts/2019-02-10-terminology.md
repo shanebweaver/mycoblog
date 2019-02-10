@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mushroom Terminology Cheatsheet"
+title: "Mushroom Growers Terminology Cheatsheet"
 featured-img: xray
 # categories: [Guides]
 comments: true
