@@ -16,4 +16,6 @@ Mush love,
 
 ## Shane 🍄
 
-<img src="{{ '/assets/img/posts/about.jpg' | relative_url }}" style="display:block;margin:auto;" />
+<div style="max-width:400px;border-radius:50%;position:relative;overflow:hidden;margin:auto;">
+    <img src="{{ '/assets/img/posts/about.jpg' | relative_url }}" style="display:block;margin:auto;" />
+</div>
