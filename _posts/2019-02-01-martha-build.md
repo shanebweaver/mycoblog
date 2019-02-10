@@ -8,25 +8,25 @@ comments: true
 
 <img src="{{ '/assets/img/posts/tent_1.jpg' | relative_url }}" style="display:block;margin:auto;" />
 
-I've been getting into mushroom cultivation lately, starting as a hobby but with potential to start a business. I like the idea of being a mushroom cultivator, but like most people I don't have any formal education on the topic. I don't even remember them being a topic in gradeschool. So to get a feel for it, I decided to try my hand at growing something.
+I've been getting into mushroom cultivation lately, initially as a hobby but with potential to start a business. I like the idea of being a mushroom cultivator, but like most people I don't have any formal education on the topic. I don't even remember mycology being a topic in gradeschool. So to get a feel for it, I decided to try my hand at growing something.
 
-Right off the bat I bought a Oyster mushroom box from Home Depot for $20, followed the instructions (incorrectly), and managed to grow some blue-green mold... but no mushrooms. Time to double down!
+Right off the bat I bought an Oyster mushroom spawn kit from Home Depot for $20, followed the instructions (incorrectly), and managed to grow some blue-green mold... but no mushrooms. Time to double down!
 
-Turns out there is more than one way to fruit a mushroom. I've seen amazing variety in grow tent design across Shroomery and the wide web, with some being better than others. However, I couldn't quite find any guides that met my particular style of over-doing things.
+Turns out there is more than one way to fruit a block. I've seen amazing variety in grow tent design across Shroomery and the wide web, with some being better than others. However, I couldn't quite find any guides that met my particular style of over-doing things.
 
 Thus, after many hours of YouTube and scrolling through forums, I identified a few trends: There seems to be a lot of love out there for the Martha style tent from small growers. I also noticed strong support for House of Hydro humidity systems from commercial growers. So that is what I built. Let's dive in!
 
 #### Note:
-This is not a cheap build. It's gonna cost ~$300 depending on where you source your parts. The bulk of the cost coming from the humidifer components. This build is designed for use with a few assumptions:
+This is not a cheap build. It's gonna cost ~$400 depending on where you source your parts. The bulk of the cost coming from the humidifer components. This build is designed for use with a few assumptions:
 
 - The ambient humidity is lower then 70%
-- The ambient temperature is stable >60F degrees
+- The ambient temperature is stable between 55F and 65F degrees
 
 This is an indoor grow build. If your location requires controlled heating/cooling or de-humidification, this may not be the build for you.
 
 ## Placement
 
-Picking a place to put your tent is important. There are a few factors to consider:
+Picking a location to place your tent is important. There are a few factors to consider:
 
 - **Temperature**   
     Choose a location that has relatively stable temperature throughout the day. Big sudden swings in temperature are bad. I chose a spare bedroom that doesn't get a lot of foot traffic, so the door stays shut.
@@ -38,10 +38,10 @@ Picking a place to put your tent is important. There are a few factors to consid
     The fresh air coming into the tent needs to be clean/filtered. Since my tent is in a closed room, I simply use the ambient air in the room, provided by the central HVAC system, which is HEPA filtered.
 
 - **Exhaust**   
-    Some mushroom spores can cause alergic type reactions, so it's important to ventilate to the outside, and not into your house. Pick a room that has a window, or where you are comfortable cutting a hole in the wall for exhaust ventilation.
+    Some mushroom spores can cause development of allergic type reactions, so it's important to ventilate to the outside, and not into your house. Pick a room that has a window, or where you are comfortable cutting a hole in the wall for exhaust ventilation.
 
 - **Noise**     
-    The system makes a minor level of noise as it operates. Mostly just the sounds of moving air and bubbling water. Be cautious if sharing a wall with a bedroom or office.
+    The system makes a minor level of noise as it operates. Mostly just the sounds of moving air and bubbling water. Use caution if sharing a wall with a bedroom or office.
 
 - **Light**     
     Mushrooms enjoy a regular day-night cycle for fruiting. Place the tent in an area that allows for 12 hours cycles of light/dark.
@@ -51,10 +51,9 @@ Picking a place to put your tent is important. There are a few factors to consid
 
 ## Build Instructions
 
-To build this Martha, I used parts from Amazon, Home Depot, and the House of Hydro. Note, some things like fans can be substituted with similar parts. It doesn't have to be exact.
+To build this Martha, I used parts from Amazon, Home Depot, and the House of Hydro. Some things, like fans, can be substituted with similar parts. It doesn't have to be exact.
 
 ### Greenhouse
-
 
 My core tent consists of the Martha tent itself, a plastic base, and a shallow perlite tray. The plastic base is for catching any condensation or dripping water, and the smaller perlite tray is for humidity control.
 
@@ -70,7 +69,7 @@ My core tent consists of the Martha tent itself, a plastic base, and a shallow p
 
 Start off by assembling the tent in your desired location. Nest the perlite tray in the base tray, and slip them under the assembled greenhouse tent. 
 
-At the top, left/right side of the marth tent, in the pitch of the roof, trace a 4-inch circle using one of the ventilation ports and cut out a hole for mist intake. Cut out a similar hole at the bottom of the tent for air output.
+At the top, left/right side of the marth tent, just below the roof, trace a 4-inch circle using one of the ventilation ports and cut out a hole for mist intake. Cut out a similar hole at the bottom of the tent for exhaust output.
 
 Attach the diffusing ventilation ports to the two openings. Ensure that the diffusers are open and allowing air to flow. You can adjust these to tweak how air flows through the tent.
 
@@ -93,7 +92,7 @@ Plug the light into the timed power strip on the `timed` side.
 
 ### Humidifier
 
-Perhaps the most important and costly aspect of this build is the humidity system. Hands down House of Hydro has the best gear for building a custom humidifier. I picked up the mist maker, humidistat, and humidity controller as well. Most everything else can be picked up at a hardware store (or Amazon).
+Perhaps the most important and costly aspect of this build is the humidity system. Hands down [The House of Hydro](https://www.thehouseofhydro.com/index.html) has the best gear for building a custom humidifier. I picked up the mist maker, humidistat, and humidity controller as well. Most everything else can be picked up at a hardware store (or Amazon).
 
 - Ultrasonic mist maker: [3 Disc Mist Maker Starter Kit w/ Tuff Coat + 2x warranty](https://www.thehouseofhydro.com/store/p83/3_Disc_Mist_Maker_Starter_Kit_.html)
 - Humidistat: [Auto Humidity Controller, Humidistat, Greenhouse Controller](https://www.thehouseofhydro.com/store/p94/Auto_Humidity_Controller%2C_Humidistat%2C_Greenhouse_Controller.html)
@@ -109,7 +108,7 @@ Perhaps the most important and costly aspect of this build is the humidity syste
 <img src="{{ '/assets/img/posts/humidifier_top.jpg' | relative_url }}" />
 <img src="{{ '/assets/img/posts/humidifier_open.jpg' | relative_url }}" />
 
-Using a rotary tool, knife, or other sharp object, cut 4-inch holeS in two opposing corners; One is for air intake, while the other is for mist output. 
+Using a rotary tool, knife, or other sharp object, cut two 4-inch hole in opposing corners; One is for air intake, while the other is for mist output. 
 
 Attach the muffin fan to the top of one of the openings using nuts/bolts, making sure that the air is blowing *into* the resevoir (not out).
 
@@ -121,7 +120,7 @@ Connect the fan components together:
 
 Using clear silicone, affix the PVC flang atop the other opening in the resevoir lid. I used bolts and wingnuts as well for an extra sturdy fixture.
 
-Grab the ultrasonic mist maker head w/ float ring and place it inside the resevoir, then drill a hole near the output port large enough to run the mist maker cable up through. 
+Grab the ultrasonic mist maker head w/ float ring and place it inside the resevoir, then drill a hole near the output port large enough to run the mist maker cable up through. Seal up the hole with clear silicone to prevent mist leakage.
 
 Attach the mist maker components together:  
 **Mist maker** -> **Transformer** -> **Mist output controller** -> **Cable extension splitter** 
@@ -170,13 +169,13 @@ Adjust the power strip to toggle on/off every 12 hours. This will create the day
 
 Configure the humidistat to turn on at 70% and off at 85% to create the regulated climate for your mushrooms.
 
-Configure the thermostat controller to turn on/off somewhere between 60-70F degrees. For the space my tent is in, I found it fair to have it maintain ~65F degrees. If I had a more powerful heater, I might dial it in more, but I'm really relying on the ambient temperature to be relatively stable. Again, this is *not* an outdoor build.
+Configure the thermostat controller to turn on/off somewhere between 55-65F degrees. For the space my tent is in, I found it fair to have it maintain ~60F degrees. If I had a more powerful heater, I might dial it in more, but I'm really relying on the ambient temperature to be relatively stable. Again, this is *not* an outdoor build.
 
-Fill the humidifier tote with a few inches of water; At least enough for the ultrasonic humidier ring to float.
+Fill the humidifier tote with a few inches of water; At least enough for the ultrasonic humidier ring to float. Also make sure the mist maker isn't shooting water into the fan.
 
 ## Operation
 
-Operations is pretty simple for this unit. Simply ensure that the humidifer doesn't run dry, and that is about it. The system will continuously regulate the humidity/temperature/FAE balance, and all you have to do is wait!
+Operations is pretty simple for this unit. Ensure that the humidifier doesn't run dry, and that is about it. The system will continuously regulate the humidity/temperature/FAE balance, and all you have to do is wait!
 
 ## Maintenance + Cleaning
 
@@ -190,7 +189,7 @@ As with all setups, there needs to be some level of cleanup every few weeks. Sim
 - Intake/output flanges
 
 ### Humidifier
-The humidifer components also need regular cleaning to prevent mold growth from the extra moisture. Simply wope down with 70% isopropyl alchohol, and difficult areas can be hit with a Lysol spray:
+The humidifier components also need regular cleaning to prevent mold growth from the extra moisture. Simply wope down with 70% isopropyl alchohol, and difficult areas can be hit with a Lysol spray:
 
 - Plastic tote + lid
 - Mist output (PVC + tubing)
@@ -200,7 +199,7 @@ The humidifer components also need regular cleaning to prevent mold growth from 
 
 The ultrasonic disks should be replaced every few weeks, to remove any mineral or other buildup an dkeep performance high. Always make sure to unplug the unit first and allow time to cool; the unit may be warm to the touch, and touching the discs when they are working can give quite a zap. 
 
-Start by giving the ultrasonic head a soak in vinegar for a few hours (or overnight) to loosen up any deposits. Then allow the unit to dry. ANY moisture under the ceramic disks can shorten the lifespan and reduce mist output. Wipe it out with a paper towel to speed up the drying process.
+Start by giving the ultrasonic head a soak in vinegar for a few hours (or overnight) to loosen up any deposits. Then allow the unit to dry. Any moisture under the ceramic disks can shorten the lifespan and reduce mist output. Wipe it out with a paper towel to speed up the drying process.
 
 Using a disk key (provided with each pack of disks) unscrew the disk retaining rings and then remove the disks. Then insert new disks, screw the retaining rings back on, and plop it back in the humidifier tote. 
 

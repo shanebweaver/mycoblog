@@ -4,6 +4,10 @@ title: 🖊 About the Author
 permalink: /about/
 ---
 
+<div style="max-width:400px;border-radius:50%;position:relative;overflow:hidden;margin:auto;">
+    <img src="{{ '/assets/img/posts/about.jpg' | relative_url }}" style="display:block;margin:auto;" />
+</div>
+
 # Hi,
 
 I'm Shane Weaver; Engineer and entrepreneur.
@@ -15,7 +19,3 @@ The thoughts and views expressed on this site are my own. They do not represent 
 Mush love,
 
 ## Shane 🍄
-
-<div style="max-width:400px;border-radius:50%;position:relative;overflow:hidden;margin:auto;">
-    <img src="{{ '/assets/img/posts/about.jpg' | relative_url }}" style="display:block;margin:auto;" />
-</div>
