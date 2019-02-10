@@ -8,10 +8,12 @@ permalink: /about/
 
 I'm Shane Weaver; Engineer and entrepreneur.
 
-Born and raised in the Puget Sound region of Washington State; I spend my free time wood working, studying amateur mycology, coding, Beat Saber, and hanging with the family 🤹‍️
+Born and raised in the Puget Sound region of Washington State; I spend my free time wood working, studying amateur mycology, [coding](https://github.com/shweaver-MSFT), sweating to [Beat Saber](https://www.youtube.com/playlist?list=PLQncYd_cub1LFv9zl7KRfvPA2fVM1Lfq_), and hanging with the family 🤹‍️
 
 The thoughts and views expressed on this site are my own. They do not represent the opinions of my employer in any way.
 
 Mush love,
 
 ## Shane 🍄
+
+<img src="{{ '/assets/img/posts/about.jpg' | relative_url }}" style="display:block;margin:auto;" />

@@ -63,7 +63,7 @@ My core tent consists of the Martha tent itself, a plastic base, and a shallow p
 
 **Base tray:** [MidWest Homes for Pets Dog Crate Replacement Pans, 30-Inch](https://www.amazon.com/gp/product/B0002DHW10)  
 **Perlite tray:** [MidWest Homes for Pets Dog Crate Replacement Pans, 18-Inch](https://www.amazon.com/gp/product/B007TU7PM0)    
-<img src="/blog/assets/img/posts/perlite.jpg" />
+<img src="{{ '/assets/img/posts/perlite.jpg' | relative_url }}" />
 
 **2 x Air diffusing ventilation port, 4-inch**    
 <img src="{{ '/assets/img/posts/flange_1.jpg' | relative_url }}" />
