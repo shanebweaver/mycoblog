@@ -2,7 +2,7 @@
 title: The MycoBlog # your site title
 author: shanebweaver # You :P
 description: > # Meta description of Homepage
-  Thoughts on Amateur Mycology and Engineering from the mind of Washingtonian local, Shane Weaver.
+  Thoughts on Mycology and Mushroom Cultivation
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.mycoblog.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -10,9 +10,8 @@ url: "http://www.mycoblog.com" # the base hostname & protocol for your site, e.g
 social:
   name: Shane Weaver
   links:
-    - https://www.facebook.com/shane.weaver
-    - https://www.linkedin.com/in/shanebweaver/
-    - https://github.com/shanebweaver
+    - https://www.facebook.com/mycoblog
+    - https://github.com/shanebweaver/mycoblog
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -21,16 +20,15 @@ navigation: # Navigation links
   - {name: 'Connect', link: '/contact'}
 
 tagline: >
-  Thoughts on Amateur Mycology and Engineering
+  Thoughts on Mycology and Mushroom Cultivation
 
 hero_img: posts/various.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: shanebweaver@gmail.com # email for form submission
+email: TheMycoBlog@gmail.com # email for form submission
 
-# twitter_username: ShaneWe94191747 # replace with your_twitter_username or comment to remove link from footer
+twitter_username: MycoBlog # replace with your_twitter_username or comment to remove link from footer
 github_username:  shanebweaver # replace with your_github_username or comment to remove link from footer
-instagram_username: shanebweaver # replace with your_instagram_username or comment to remove link from footer
-# linkedin_username: shanebweaver
+instagram_username: mycoblog # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   shortname: mycoblog # to enable comments replace with your_disqus_shortname
