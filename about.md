@@ -1,21 +1,14 @@
 ---
 layout: page
-title: 🖊 About the Author
+title: 🖊 About the MycoBlog
 permalink: /about/
 ---
 
-<div style="max-width:400px;border-radius:50%;position:relative;overflow:hidden;margin:auto;">
-    <img src="{{ '/assets/img/posts/about.jpg' | relative_url }}" style="display:block;margin:auto;" />
-</div>
+# Mushrooms are cool!
 
-# Hi,
+No, seriously. Welcome to the MycoBlog. Founded way back in January 2019... the MycoBlog is a hub for interesting and educational content all around mycology and mushroom cultivation. 
 
-I'm Shane Weaver; Engineer and entrepreneur.
+This site is all free, no-ads, and just for fun!
 
-Born and raised in the Puget Sound region of Washington State; I spend my free time wood working, studying amateur mycology, [coding](https://github.com/shweaver-MSFT), sweating to [Beat Saber](https://www.youtube.com/playlist?list=PLQncYd_cub1LFv9zl7KRfvPA2fVM1Lfq_), and hanging with the family 🤹‍️
-
-The thoughts and views expressed on this site are my own. They do not represent the opinions of my employer in any way.
-
-Mush love,
-
-## Shane 🍄
+## Mush love 🍄
+[*Shane Weaver*](https://shanebweaver.github.io)
