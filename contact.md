@@ -16,7 +16,7 @@ See something you like or need a few pointers? I love connecting with interestin
 
 ## Let's connect
 
-Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
+Fill in the form or [email](mailto:{{site.email}}) to discuss your next project.
 
 {% include form.html %}
 
