@@ -171,7 +171,7 @@ Configure the humidistat to turn on at 70% and off at 85% to create the regulate
 
 Configure the thermostat controller to turn on/off somewhere between 55-65F degrees. For the space my tent is in, I found it fair to have it maintain ~60F degrees. If I had a more powerful heater, I might dial it in more, but I'm really relying on the ambient temperature to be relatively stable. Again, this is *not* an outdoor build.
 
-Fill the humidifier tote with a few inches of water; At least enough for the ultrasonic humidier ring to float. Also make sure the mist maker isn't shooting water into the fan.
+Fill the humidifier tote with a few inches of water; At least enough for the ultrasonic humidifier ring to float. Also make sure the mist maker isn't shooting water into the fan.
 
 ## Operation
 
@@ -180,7 +180,7 @@ Operations is pretty simple for this unit. Ensure that the humidifier doesn't ru
 ## Maintenance + Cleaning
 
 ### Grow chamber
-As with all setups, there needs to be some level of cleanup every few weeks. Simply wipe down the tent components with 70% isopropyl alchohol, and difficult areas can be hit with a Lysol spray:
+As with all setups, there needs to be some level of cleanup every few weeks. Simply wipe down the tent components with 70% isopropyl alchohol, and difficult to reach areas can be hit with a spray:
 
 - Tent plastic
 - Tent frame + racks
@@ -189,7 +189,7 @@ As with all setups, there needs to be some level of cleanup every few weeks. Sim
 - Intake/output flanges
 
 ### Humidifier
-The humidifier components also need regular cleaning to prevent mold growth from the extra moisture. Simply wope down with 70% isopropyl alchohol, and difficult areas can be hit with a Lysol spray:
+The humidifier components also need regular cleaning to prevent mold growth from the extra moisture. Simply wipe down with 70% isopropyl alchohol, and difficult to reach areas can be hit with a spray:
 
 - Plastic tote + lid
 - Mist output (PVC + tubing)
