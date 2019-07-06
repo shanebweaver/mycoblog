@@ -72,7 +72,7 @@ gulp.task( "sass", () => {
 //  JS
 gulp.task( "js", () => {
   return browserify( src.js, { debug: true, extensions: [ "es6" ] } )
-    .transform( "babelify", { presets: [ "es2015" ] } )
+    .transform( "babelify"/*, { presets: [ "es2015" ] }*/ )
     .bundle()
     .on( "error", handleErrors )
     .pipe( source( "bundle.js" ) )
