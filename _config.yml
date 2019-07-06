@@ -28,8 +28,8 @@ email: TheMycoBlog@gmail.com # email for form submission
 
 #twitter_username: MycoBlog # replace with your_twitter_username or comment to remove link from footer
 #github_username:  shanebweaver # replace with your_github_username or comment to remove link from footer
-#instagram_username: mycoblog # replace with your_instagram_username or comment to remove link from footer
-facebook_username: mycoblog
+instagram_username: mycoblog # replace with your_instagram_username or comment to remove link from footer
+#facebook_username: mycoblog
 
 disqus:
   shortname: mycoblog # to enable comments replace with your_disqus_shortname
