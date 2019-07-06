@@ -6,8 +6,6 @@ categories: [Guides]
 comments: true
 ---
 
-## Configuration
-
 <img src="{{ '/assets/img/posts/sensors.jpg' | relative_url }}" />
 
 Adjust the power strip to toggle on/off every 12 hours. This will create the day/night cycle.

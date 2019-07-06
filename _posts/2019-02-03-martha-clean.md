@@ -6,8 +6,6 @@ categories: [Guides]
 comments: true
 ---
 
-## Maintenance + Cleaning
-
 ### Grow chamber
 As with all setups, there needs to be some level of cleanup every few weeks. Simply wipe down the tent components with 70% isopropyl alchohol, and difficult to reach areas can be hit with a spray:
 
