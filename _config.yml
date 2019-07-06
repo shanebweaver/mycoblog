@@ -17,7 +17,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Connect', link: '/contact'}
+  - {name: 'Contact', link: '/contact'}
 
 tagline: >
   Thoughts on Mycology and Mushroom Cultivation
@@ -28,7 +28,7 @@ email: TheMycoBlog@gmail.com # email for form submission
 
 #twitter_username: MycoBlog # replace with your_twitter_username or comment to remove link from footer
 #github_username:  shanebweaver # replace with your_github_username or comment to remove link from footer
-instagram_username: mycoblog # replace with your_instagram_username or comment to remove link from footer
+#instagram_username: mycoblog # replace with your_instagram_username or comment to remove link from footer
 facebook_username: mycoblog
 
 disqus:

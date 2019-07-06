@@ -161,14 +161,5 @@ Use ventilation ducting to connect the output port of the tent to the inline fan
 
 This setup involves quite a few wires and devices to keep track of. To organize the madness, and get the devices off the ground, I zip-tied it all to a plastic crate. The devices are attached atop, while the cords are fed through the holes and bound neatly within. Get creative, find what works for you and your space.
 
-## What's next?
-
-- Automate water refill
-- Refactor humidifier output
-- Upgrade heating
-- Insulate window shim
-- Cut off those annoying tent door straps
-- Fiddle with configuration
-
 <img src="{{ '/assets/img/posts/oyster_1.jpg' | relative_url }}" />
 <img src="{{ '/assets/img/posts/oyster_2.jpg' | relative_url }}" />

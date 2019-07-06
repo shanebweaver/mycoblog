@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fruting Chamber Cleaning and Maintainence"
+title: "Fruiting Chamber Cleaning and Maintainence"
 featured-img: humidifier_working
 categories: [Guides]
 comments: true

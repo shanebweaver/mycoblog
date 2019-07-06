@@ -10,5 +10,5 @@ MycoBlog is a hub for interesting and educational content all around mycology an
 
 This site is all free, no-ads, and just for fun!
 
-## Mush love 🍄
-[*Shane Weaver*](www.shanebweaver.com)
+## Thanks,
+[*Shane Weaver*](http://www.shanebweaver.com)
