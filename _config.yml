@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: The MycoBlog # your site title
+title: MycoBlog # your site title
 author: Shane Weaver # You :P
 description: > # Meta description of Homepage
   Thoughts on Mycology and Mushroom Cultivation
@@ -8,7 +8,7 @@ url: "http://www.mycoblog.com" # the base hostname & protocol for your site, e.g
 
 # SEO PLUGIN
 social:
-  name: The MycoBlog
+  name: MycoBlog
   links:
     - https://www.facebook.com/mycoblog
     - http://www.mycoblog.com

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: 🖊 About the MycoBlog
+title: About
 permalink: /about/
 ---
 
-# Mushrooms are cool!
+# Welcome to MycoBlog
 
-No, seriously. Welcome to the MycoBlog. Founded way back in January 2019... the MycoBlog is a hub for interesting and educational content all around mycology and mushroom cultivation. 
+MycoBlog is a hub for interesting and educational content all around mycology and mushroom cultivation. 
 
 This site is all free, no-ads, and just for fun!
 
 ## Mush love 🍄
-[*Shane Weaver*](https://shanebweaver.github.io)
+[*Shane Weaver*](www.shanebweaver.com)
